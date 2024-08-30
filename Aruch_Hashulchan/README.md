@@ -4,7 +4,7 @@ This repository contains an AI generated draft translation of the Aruch Hashulch
 `AH_Translation_Orach_Chaim.pdf` contains a PDF version of the text (careful, its more than 3000 pages!), while `ah_oc_gpt4_translation_full.json` contains a JSON serialized object that can be analyzed programmatically.
 
 # Overview
-To create this translation, I downloaded the Aruch Hashulchan Hebrew text from [Sefaria](https://www.sefaria.org/Arukh_HaShulchan?tab=contents), specifically, the file `Arukh HaShulchan - he - Arukh HaShulchan, Orach Chayim -- Wikisource.jso`. I then passed seif by seif, each hebrew text to OpenAI's GPT4o model (with a temperature parameter of .7), prompting it to translate the text. The result is then saved. The total cost for processing this amount of text and getting the translation was about $50
+To create this translation, I downloaded the Aruch Hashulchan Hebrew text from [Sefaria](https://www.sefaria.org/Arukh_HaShulchan?tab=contents), specifically, the file `Arukh HaShulchan - he - Arukh HaShulchan, Orach Chayim -- Wikisource.json`. I then passed seif by seif, each hebrew text to OpenAI's GPT4o model (with a temperature parameter of .7), prompting it to translate the text. The result is then saved. The total cost for processing this amount of text and getting the translation was about $50.
 
 Note that the `ah_oc_gpt4_translation_full.json` file storing the raw translations has the same schema as the original Sefaria. 
 
