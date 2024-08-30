@@ -15,6 +15,6 @@ I have not extensively benchmarked the output, but my overall assessment is that
 It should also be noted that since I pass each seif to the model seperately from other seifim, this is likely to lead to some errors do to the model not understanding the context of what was said before. 
 
 # Note
-Special thanks to my father, Rabbi Professor Michael Broyde, and Emory University's Law and Religion Center, which funded the model calls for this project. Thank you of course also to Sefaria for publishing the original hebrew text.
+Special thanks to my father, Rabbi Michael Broyde, and Emory University's Law and Religion Center, which funded the model calls for this project. Thank you of course also to Sefaria for publishing the original hebrew text.
 
 
