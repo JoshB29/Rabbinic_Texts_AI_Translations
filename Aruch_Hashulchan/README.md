@@ -19,7 +19,7 @@ I have not extensively benchmarked the output, but my overall assessment is that
 
 The translation sometimes adds translation of technical terms that are strictly speaking not part of the original. For example, the very first sentence of the translation of Yoreh Deah is " Shechita (ritual slaughter) is a positive commandment. " The Aruch Hashulchan himself never defines shechita as ritual slaughter.
 
-In Yoreh Deah 92:44, the translated text is "And in England andother places, they do not cook without a cover, and in this case, it is all the same as mentioned in subsection 46." I do not know wht the correct translation of "ובענגלש"ע קיכי"ן " is, but this translation is certainly not correct. 
+In Yoreh Deah 92:44, the translated text is "And in England andother places, they do not cook without a cover, and in this case, it is all the same as mentioned in subsection 46." I do not know what the correct translation of "ובענגלש"ע קיכי"ן " is, but this translation is certainly not correct. 
 
 In YD 2:5, it translates "עבריין לתיאבון" as a "A habitual sinner", but this is strictly speaking not correct, as לתיאבון does not mean habitual. 
 
