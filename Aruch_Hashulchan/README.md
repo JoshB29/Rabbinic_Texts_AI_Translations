@@ -17,7 +17,7 @@ I have not extensively benchmarked the output, but my overall assessment is that
 
  I have noticed that the model sometimes translates "רבינו הבית יוסף" as "Rabbeinu the Beit Yosef" rather than the smoother "Our Rabbi, the Beit Yosef". 
 
-The translation sometimes adds translation of technical terms that are strictly speaking not part of the original. For example, the very first sentence of the translation of Yoreh Deah is " Shechita (ritual slaughter) is a positive commandment. " The Aruch Hashulchan himself never defines shechita as ritual slaughter.
+The translation sometimes adds translations of technical terms that are strictly speaking not part of the original. For example, the very first sentence of the translation of Yoreh Deah is " Shechita (ritual slaughter) is a positive commandment. " The Aruch Hashulchan himself never defines shechita as ritual slaughter.
 
 In Yoreh Deah 92:44, the translated text is "And in England andother places, they do not cook without a cover, and in this case, it is all the same as mentioned in subsection 46." I do not know what the correct translation of "ובענגלש"ע קיכי"ן " is, but this translation is certainly not correct. 
 
