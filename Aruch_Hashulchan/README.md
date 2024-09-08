@@ -9,7 +9,7 @@ For Yoreh Deah, I had to combine two different files from Sefaria `Arukh HaShulc
 
 Note that the `ah_oc_gpt4_translation_full.json` file storing the raw translations has the same schema as the original Sefaria. 
 
-
+For Even HaEzer, the Aruch Hashulchan has the main text, and two appendicies ("Seder Haget" and "Seder Chalitza"). I had to process these seperately , and then cocatonate them. Note that in Seder Haget, there was a problem/bug that caused the printed numbering of the simanim to be incorrect, so please disregard the paragraph numberings in those sections.
 
 # Brief Impressions
 
